@@ -17,6 +17,7 @@
 
 - *Text Editor*: NeoVim
 - *OS*: A *wide* variety of Linux distros and even some other FOSS OSs (like Haiku)
+  + *Desktop Environment*: KDE is the best. Fight me.
 - *Shell*: Zsh with Oh-My-Zsh and Powerlevel10k
 - *Web Browser*: LibreWolf or `lynx`
 
