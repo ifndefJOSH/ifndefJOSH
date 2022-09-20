@@ -1,6 +1,7 @@
 ![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifndefJOSH)
 
-Website: [https://ifndefJOSH.github.io](https://ifndefJOSH.github.io)
+[![Website: ifndefjosh.github.io](https://img.shields.io/website?down_color=red&down_message=https%3A%2F%2FifndefJOSH.github.io%20%28DOWN%29&style=for-the-badge&up_color=blue&up_message=https%3A%2F%2FifndefJOSH.github.io&url=https%3A%2F%2FifndefJOSH.github.io)](https://ifndefJOSH.github.io)
+
 
 ### Josh Jeppson
 
