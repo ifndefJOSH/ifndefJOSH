@@ -1,3 +1,7 @@
+![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifndefJOSH)
+
+Website: [https://ifndefJOSH.github.io](https://ifndefJOSH.github.io)
+
 ### Josh Jeppson
 
 - Primary maintainer of [STAMINA](https://github.com/fluentverification/stamina-cplusplus).
