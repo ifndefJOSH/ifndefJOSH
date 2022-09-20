@@ -1,4 +1,12 @@
-### Hi there 👋
+### Josh Jeppson
+
+- Primary maintainer of [STAMINA](https://github.com/fluentverification/stamina-cplusplus).
+
+#### Languages
+
+- Fluent in C++, Java, Python, HTML/CSS, JavaScript, Shell-scripts, and SQL
+- Experience in Kotlin, Haskell, Scheme, Matlab/Octave, PHP, Raku/Perl
+
 
 <!--
 **ifndefJOSH/ifndefJOSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
