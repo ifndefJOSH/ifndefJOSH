@@ -6,6 +6,7 @@
 ### Josh Jeppson
 
 - Primary maintainer of [STAMINA](https://github.com/fluentverification/stamina-cplusplus).
+- Sole developer of [STAMINA's website](https://staminachecker.org)
 
 #### Languages
 
