@@ -12,7 +12,7 @@
 
 - Fluent in C++, Java, Python, HTML/CSS, JavaScript, Shell-scripts, and SQL
 - Experience in Kotlin, Haskell, Scheme, Matlab/Octave, PHP, Raku/Perl, Rust
-- Done a tiny bit in: D
+- Done a tiny bit in: D, Lua, Common Lisp
 
 #### What I use:
 
