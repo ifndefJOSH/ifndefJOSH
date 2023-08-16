@@ -1,11 +1,11 @@
-<!-- ![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifndefJOSH) -->
+![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifndefJOSH) 
 
 [![Website: ifndefjosh.github.io](https://img.shields.io/website?down_color=red&down_message=https%3A%2F%2FifndefJOSH.github.io%20%28DOWN%29&style=for-the-badge&up_color=blue&up_message=https%3A%2F%2FifndefJOSH.github.io&url=https%3A%2F%2FifndefJOSH.github.io)](https://ifndefJOSH.github.io)
 
 
 ### Josh Jeppson
 
-- Primary maintainer of [STAMINA](https://github.com/fluentverification/stamina-cplusplus).
+- Primary maintainer of [STAMINA](https://github.com/fluentverification/stamina-storm).
 - Sole developer of [STAMINA's website](https://staminachecker.org)
 
 #### Languages
@@ -16,7 +16,7 @@
 
 #### What I use:
 
-- *Text Editor*: NeoVim
+- *Text Editor*: NeoVim or KDE's Kate
 - *OS*: A *wide* variety of Linux distros and even some other FOSS OSs (like Haiku)
   + *Desktop Environment*: KDE is the best. Fight me.
 - *Shell*: Zsh with Oh-My-Zsh and Powerlevel10k
