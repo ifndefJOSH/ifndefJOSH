@@ -3,22 +3,11 @@
 
 ### Josh Jeppson
 
-- Primary maintainer of [STAMINA](https://github.com/fluentverification/stamina-storm).
-- Sole developer of [STAMINA's website](https://staminachecker.org)
-
 #### Languages
 
-- Fluent in C++, Java, Python, HTML/CSS, JavaScript, Shell-scripts, and SQL
+- Fluent in C++, Java, Python, HTML/CSS, JavaScript, POSIX shell scripts, and SQL
 - Experience in Kotlin, Haskell, Scheme, Matlab/Octave, PHP, Raku/Perl, Rust
 - Done a tiny bit in: D, Lua, Common Lisp
-
-#### What I use:
-
-- *Text Editor*: NeoVim or KDE's Kate
-- *OS*: A *wide* variety of Linux distros and even some other FOSS OSs (like Haiku)
-  + *Desktop Environment*: KDE is the best. Fight me.
-- *Shell*: Zsh with Oh-My-Zsh and Powerlevel10k
-- *Web Browser*: LibreWolf or `lynx`
 
 <!--
 **ifndefJOSH/ifndefJOSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
