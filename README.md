@@ -5,9 +5,15 @@
 
 #### Languages
 
-- Fluent in C, C++, Rust Java, Python, HTML/CSS, JavaScript, POSIX shell scripts, and SQL
+- Fluent in C, C++, Rust, Java, Python, HTML/CSS, JavaScript, POSIX shell scripts, and SQL
 - Experience in Kotlin, Haskell, Scheme, Matlab/Octave, PHP, Raku/Perl, Dafny
 - Done a tiny bit in: D, Lua, Common Lisp, Go, Zig, Nim
+
+#### Interests
+
+- System verification and Program Proofs
+- Audio
+- Graph Theory
 
 <!--
 **ifndefJOSH/ifndefJOSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
