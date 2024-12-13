@@ -5,8 +5,8 @@
 
 #### Languages
 
-- Fluent in C, C++, Rust, Java, Python, HTML/CSS, JavaScript, POSIX shell scripts, and SQL
-- Experience in Kotlin, Haskell, Scheme, Matlab/Octave, PHP, Raku/Perl, Dafny
+- Fluent in Rust, C, C++, Java, Python, HTML/CSS, JavaScript, POSIX shell scripts, and SQL
+- Experience in Kotlin, Haskell, Scheme, Matlab/Octave, PHP, Raku/Perl, Dafny, Verilog and VHDL
 - Done a tiny bit in: D, Lua, Common Lisp, Go, Zig, Nim
 
 #### Interests
@@ -14,6 +14,8 @@
 - System verification and Program Proofs
 - Audio
 - Graph Theory
+
+If you're looking for someone to work in Rust, hmu.
 
 <!--
 **ifndefJOSH/ifndefJOSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
