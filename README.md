@@ -12,7 +12,7 @@
 #### Interests
 
 - System verification and Program Proofs
-- Audio
+- Audio and DSP
 - Graph Theory
 
 If you're looking for someone to work in Rust, hmu.
