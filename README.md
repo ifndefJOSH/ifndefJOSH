@@ -3,6 +3,8 @@
 
 ### Josh Jeppson
 
+PhD student at Utah State University and (soon to be) software engineer at Lucid.
+
 #### Languages
 
 - Fluent in Rust, C, C++, Java, Python, HTML/CSS, JavaScript, POSIX shell scripts, and SQL
@@ -14,6 +16,8 @@
 - System verification and Program Proofs
 - Audio and DSP
 - Graph Theory
+- Docker, Docker Compose
+- Networking (the computer kind with the TCP/IP stack and whatever but the professional kind is cool too 😅)
 
 If you're looking for someone to work in Rust, hmu.
 
