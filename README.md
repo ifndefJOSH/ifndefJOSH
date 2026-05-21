@@ -3,12 +3,12 @@
 
 ### Josh Jeppson
 
-PhD student at Utah State University and (soon to be) software engineer at Lucid.
+PhD student at Utah State University and SRE/infrastructure engineer at Lucid.
 
 #### Languages
 
 - Fluent in Rust, C, C++, Java, Python, HTML/CSS, JavaScript, POSIX shell scripts, and SQL
-- Experience in Kotlin, Haskell, Scheme, Matlab/Octave, PHP, Raku/Perl, Dafny, Verilog and VHDL
+- Experience in Kotlin, Haskell, Scheme, Matlab/Octave, PHP, Raku/Perl, Dafny, Verilog, VHDL, Docker, Docker-Compose and Terraform
 - Done a tiny bit in: D, Lua, Common Lisp, Go, Zig, Nim
 
 #### Interests
