@@ -3,7 +3,7 @@
 
 ### Josh Jeppson
 
-PhD student at Utah State University and SRE/infrastructure engineer at Lucid.
+Software engineer at Lucid Software. Also working on a PhD in my off hours.
 
 #### Languages
 
